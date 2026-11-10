@@ -5,13 +5,10 @@
 
 ## KubeCon NA 2026
 
-Hidden Pod Startup Latency: Container Image Pull
-
-Omer Oz
-
-Nov 11 • 2:20 PM-2:50 PM
-
-Salt Palace | Level 1 | Grand Ballroom H
+Hidden Pod Startup Latency: Container Image Pull  
+Omer Oz  
+Nov 11 • 2:20 PM-2:50 PM  
+Salt Palace | Level 1 | Grand Ballroom H  
 
 **[📅 Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hidden%20Pod%20Startup%20Latency%3A%20Container%20Image%20Pull&dates=20261111T142000/20261111T145000&ctz=America/Denver&location=Salt%20Palace%20%7C%20Level%201%20%7C%20Grand%20Ballroom%20H%2C%20Salt%20Lake%20City%2C%20UT&details=Salt%20Palace%20%7C%20Level%201%20%7C%20Grand%20Ballroom%20H)**
 

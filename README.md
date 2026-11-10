@@ -5,6 +5,7 @@
 
 ## KubeCon NA 2026: The Hidden Critical Path
 
+Omer Oz
 Nov 11 • 2:20 PM-2:50 PM
 Salt Palace | Level 1 | Grand Ballroom H
 

@@ -3,8 +3,9 @@
 - [email](mailto:to@OmerOz.fyi)
 - [linkedin](https://linkedin.com/in/omer25oz)
 
-## KubeCon NA 2026: The Hidden Critical Path
+## KubeCon NA 2026
 
+Hidden Pod Startup Latency: Container Image Pull
 Omer Oz
 Nov 11 • 2:20 PM-2:50 PM
 Salt Palace | Level 1 | Grand Ballroom H

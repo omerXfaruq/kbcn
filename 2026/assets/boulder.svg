@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+  <defs>
+    <linearGradient id="rock" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#c3ccc9"/>
+      <stop offset="0.5" stop-color="#8a9692"/>
+      <stop offset="1" stop-color="#4f5a57"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Road -->
+  <polygon points="120,600 280,600 233,64 167,64" fill="#1f5c48"/>
+  <line x1="200" y1="600" x2="200" y2="64" stroke="#b8c9c0" stroke-width="3" stroke-dasharray="18 14"/>
+
+  <!-- Detours -->
+  <g fill="none" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round">
+    <path d="M185 470 C60 430 40 180 185 140" stroke="#f2b84b"/>
+    <path d="M215 470 C340 430 360 180 215 140" stroke="#7fd1a8"/>
+    <path d="M175 520 C0 480 0 120 175 90" stroke="#4fc3f7"/>
+  </g>
+
+  <!-- Boulder -->
+  <ellipse cx="203" cy="352" rx="70" ry="10" fill="#000000" opacity="0.35"/>
+  <polygon points="140,330 150,280 185,250 230,255 262,285 265,330 230,350 170,352" fill="url(#rock)"/>
+  <ellipse cx="185" cy="275" rx="22" ry="10" fill="#ffffff" opacity="0.3" transform="rotate(-20 185 275)"/>
+  <text x="200" y="390" font-size="20" font-weight="700" fill="#f2f5f3" text-anchor="middle">image pull</text>
+
+
+  <!-- Destination at the end of the highway -->
+  <rect x="166" y="14" width="68" height="34" rx="6" fill="#f2b84b"/>
+  <text x="200" y="39" font-size="22" font-weight="800" fill="#0b3d2e" text-anchor="middle" letter-spacing="2">POD</text>
+</svg>

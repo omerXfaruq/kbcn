@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 330" width="240" height="330" font-family="Sora, Helvetica Neue, Arial, sans-serif">
+<text x="44" y="18" font-size="15" font-weight="700" fill="#f2f5f3">Replicas during a</text>
+<text x="44" y="37" font-size="15" font-weight="700" fill="#f2f5f3">10 h deployment</text>
+<text x="44.0" y="322" font-size="12" fill="#b8c9c0" text-anchor="middle">00:00</text>
+<text x="131.0" y="322" font-size="12" fill="#b8c9c0" text-anchor="middle">12:00</text>
+<text x="218.0" y="322" font-size="12" fill="#b8c9c0" text-anchor="middle">24:00</text>
+<line x1="44" y1="219.3" x2="218" y2="219.3" stroke="#1f5c48" stroke-width="1"/>
+<text x="36" y="223.3" font-size="12" fill="#b8c9c0" text-anchor="end">100%</text>
+<line x1="44" y1="84.9" x2="218" y2="84.9" stroke="#1f5c48" stroke-width="1"/>
+<text x="36" y="88.9" font-size="12" fill="#b8c9c0" text-anchor="end">110%</text>
+<rect x="94.8" y="84.9" width="72.5" height="134.4" fill="#ff5c5c" fill-opacity="0.35"/>
+<polyline points="44.0,219.3 94.8,219.3 94.8,84.9 167.2,84.9 167.2,219.3 218.0,219.3" fill="none" stroke="#7fd1a8" stroke-width="2" stroke-linejoin="round"/>
+<text x="131.0" y="77.9" font-size="12" font-weight="700" fill="#f2f5f3" text-anchor="middle">+10% replicas</text>
+<path d="M94.8,261.4 V266.4 H167.2 V261.4" fill="none" stroke="#b8c9c0" stroke-width="1.5"/>
+<text x="131.0" y="281.4" font-size="12" fill="#b8c9c0" text-anchor="middle">10 h</text>
+</svg>

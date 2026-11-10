@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="98 38 164 194" width="164" height="194">
+  <!-- Isometric cube, near-black -->
+  <polygon points="180,40 260,80 180,120 100,80" fill="#2a3b35"/>
+  <polygon points="100,80 180,120 180,230 100,190" fill="#0d1613"/>
+  <polygon points="260,80 180,120 180,230 260,190" fill="#16231f"/>
+  <polyline points="100,80 180,120 260,80" fill="none" stroke="#3d5a4f" stroke-width="2"/>
+  <line x1="180" y1="120" x2="180" y2="230" stroke="#3d5a4f" stroke-width="2"/>
+</svg>

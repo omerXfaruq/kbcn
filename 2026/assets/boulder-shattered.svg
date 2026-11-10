@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+  <defs>
+    <linearGradient id="rock" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#c3ccc9"/>
+      <stop offset="0.5" stop-color="#8a9692"/>
+      <stop offset="1" stop-color="#4f5a57"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#7fd1a8" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#7fd1a8" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Road -->
+  <polygon points="120,600 280,600 233,64 167,64" fill="#1f5c48"/>
+  <!-- Clear lane: light running straight up the road -->
+  <polygon points="168,600 232,600 214,64 186,64" fill="url(#beam)"/>
+
+  <!-- Rubble pushed to the roadsides -->
+  <g fill="url(#rock)">
+    <polygon points="70,340 92,318 118,326 120,352 90,360"/>
+    <polygon points="48,372 66,356 86,364 80,384 56,386"/>
+    <polygon points="96,382 112,370 128,378 122,394 100,394"/>
+    <polygon points="290,330 314,316 336,328 332,352 300,354"/>
+    <polygon points="318,368 340,356 356,370 348,390 322,388"/>
+    <polygon points="280,380 296,372 308,384 300,396 284,394"/>
+  </g>
+  <g fill="#ffffff" opacity="0.3">
+    <ellipse cx="96" cy="330" rx="9" ry="4" transform="rotate(-20 96 330)"/>
+    <ellipse cx="318" cy="324" rx="9" ry="4" transform="rotate(-20 318 324)"/>
+  </g>
+
+  <!-- Impact sparks where the boulder was -->
+  <g stroke="#f2b84b" stroke-width="5" stroke-linecap="round">
+    <line x1="200" y1="300" x2="200" y2="270"/>
+    <line x1="160" y1="318" x2="140" y2="298"/>
+    <line x1="240" y1="318" x2="260" y2="298"/>
+    <line x1="150" y1="352" x2="124" y2="352"/>
+    <line x1="250" y1="352" x2="276" y2="352"/>
+  </g>
+
+  <!-- Straight arrow through: no detours -->
+  <g stroke="#f2f5f3" stroke-width="10" stroke-linecap="round" fill="none">
+    <line x1="200" y1="520" x2="200" y2="150"/>
+    <polyline points="166,190 200,150 234,190" stroke-linejoin="round"/>
+  </g>
+
+
+  <!-- Destination at the end of the highway -->
+  <rect x="166" y="14" width="68" height="34" rx="6" fill="#f2b84b"/>
+  <text x="200" y="39" font-size="22" font-weight="800" fill="#0b3d2e" text-anchor="middle" letter-spacing="2">POD</text>
+</svg>

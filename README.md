@@ -14,5 +14,5 @@ Drawing on a real LinkedIn production case study — over 500K bare-metal hosts,
 
 - [Slides](2026/)
 - [The Hidden Critical Path: An Incremental Analysis of Container Image Pull Bottlenecks in containerd](https://github.com/omerXfaruq/the-hidden-critical-path/blob/main/PAPER.md)
-- [Containerize the Weights: Simple, Lightning-Fast Model Deployment on NVIDIA DGX Clusters](https://github.com/omerXfaruq/kbcn/blob/master/misc/poster.pdf)
+- [Containerize the Weights: Simple, Lightning-Fast Model Deployment](https://github.com/omerXfaruq/kbcn/blob/master/misc/poster.pdf)
 

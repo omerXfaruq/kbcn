@@ -22,4 +22,4 @@ Drawing on a real LinkedIn production case study — over 500K bare-metal hosts,
 ## Contact
 
 - [email](mailto:to@OmerOz.fyi)
-- [linkedin](https://linkedin.com/in/omer25oz)
+- [linkedin](https://linkedin.com/in/OmerOz007)
